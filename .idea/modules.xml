@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SportikaDesktop.iml" filepath="$PROJECT_DIR$/.idea/modules/SportikaDesktop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SportikaDesktop_main.iml" filepath="$PROJECT_DIR$/.idea/modules/SportikaDesktop_main.iml" group="SportikaDesktop" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SportikaDesktop_test.iml" filepath="$PROJECT_DIR$/.idea/modules/SportikaDesktop_test.iml" group="SportikaDesktop" />
+    </modules>
+  </component>
+</project>
